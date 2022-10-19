@@ -1,3 +1,4 @@
-# Mechine Learning Projects
+# Machine Learning Projects
 
-**Jupyter Note Book**
+**Jupyter Note Book Best for Python**
+**RStudio is best for R**
